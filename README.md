@@ -42,7 +42,6 @@
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
   </a>
 
-<h3 align="left">Databases :</h3>
   <!-- Databases -->
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
@@ -60,7 +59,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   </a>
 
-<h3 align="left">Cloud :</h3>
   <!-- Cloud -->
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
@@ -72,7 +70,6 @@
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
   </a>
 
-<h3 align="left">DevOps and Tools:</h3>
   <!-- DevOps and Tools -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
@@ -87,7 +84,6 @@
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
   </a>
 
-<h3 align="left">Other Tools :</h3>
   <!-- Other Tools -->
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
@@ -96,7 +92,6 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
 
-<h3 align="left">Web Development :</h3>
   <!-- Web Development -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -107,6 +102,55 @@
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   </a>
+</p>
+
+<h3 align="left">Projects:</h3>
+<p align="left">
+  <ul>
+    <li><strong>CRIME RATE PREDICTION:</strong> (R, Data Cleaning, Machine Learning)</li>
+    <li><strong>SOLAR RADIATION PREDICTION:</strong> (Python, EDA, Regression Methods)</li>
+    <li><strong>CREDIT CARD FINANCIAL ANALYSIS:</strong> (Power BI, SQL, DAX)</li>
+  </ul>
+</p>
+
+<h3 align="left">Experience:</h3>
+<p align="left">
+  <ul>
+    <li>
+      <strong>Business Data Analyst</strong> <br>
+      New York State Education Department, Office of the Professions Modernization Program <br>
+      01/2024 - Present <br>
+      Optimized ETL processes, applied machine learning, and crafted data visualizations.
+    </li>
+    <li>
+      <strong>Data Analyst</strong> <br>
+      Cognizant Technologies India <br>
+      06/2021 - 07/2022 <br>
+      Automated data validation, managed data migrations, and created dynamic dashboards.
+    </li>
+    <li>
+      <strong>Data Analyst Intern</strong> <br>
+      Cognizant Technologies India <br>
+      02/2021 - 06/2021 <br>
+      Collaborated with stakeholders, developed interactive dashboards, and implemented AWS technologies.
+    </li>
+  </ul>
+</p>
+
+<h3 align="left">Education:</h3>
+<p align="left">
+  <ul>
+    <li><strong>Masters in Data Science:</strong> University at Albany, Albany, New York. (Expected 05/2024)</li>
+    <li><strong>Bachelor of Engineering in Electrical and Electronic:</strong> Anurag University, Hyderabad, Telangana, India. (05/2021)</li>
+  </ul>
+</p>
+
+<h3 align="left">Certifications:</h3>
+<p align="left">
+  <ul>
+    <li>Azure Data Engineer (Microsoft)</li>
+    <li>Azure AI fundamentals (Microsoft)</li>
+  </ul>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohansattarapu18&show_icons=true&locale=en&layout=compact" alt="rohansattarapu18" /></p>
