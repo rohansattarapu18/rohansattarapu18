@@ -50,7 +50,7 @@ I'm a goal-oriented data analyst with 3 years of expertise in analyzing large co
 ## Experience
 - **Business Data Analyst**<br>
   New York State Education Department, Office of the Professions Modernization Program<br>
-  01/2024 - Present<br>
+ 
   - Optimized ETL processes and reduced migration downtime using SQL and Python.
   - Applied machine learning, statistical analysis, and predictive modeling to predict data trends.
   - Created data visualizations using Excel and Power BI.
@@ -59,7 +59,7 @@ I'm a goal-oriented data analyst with 3 years of expertise in analyzing large co
 
 - **Data Analyst**<br>
   Cognizant Technologies India<br>
-  06/2021 - 07/2022<br>
+
   - Automated data validation using Python and managed large-scale data migrations with Oracle SQL.
   - Created and managed dynamic revenue dashboards in Tableau.
   - Analyzed revenue trends with SQL queries and Excel functions.
@@ -67,7 +67,7 @@ I'm a goal-oriented data analyst with 3 years of expertise in analyzing large co
 
 - **Data Analyst Intern**<br>
   Cognizant Technologies India<br>
-  02/2021 - 06/2021<br>
+ 
   - Collaborated with stakeholders to assess and document project requirements.
   - Developed dashboards and reports in Power BI.
   - Implemented AWS technologies for data storage and retrieval.
@@ -75,7 +75,7 @@ I'm a goal-oriented data analyst with 3 years of expertise in analyzing large co
 
 ## Education
 - **Masters in Data Science**<br>
-  University at Albany, Albany, New York (Expected 05/2024)
+  University at Albany, Albany, New York ( 05/2024)
 
 - **Bachelor of Engineering in Electrical and Electronic**<br>
   Anurag University, Hyderabad, Telangana, India (05/2021)
