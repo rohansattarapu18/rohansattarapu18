@@ -107,5 +107,3 @@ I'm a goal-oriented data analyst with 3 years of expertise in analyzing large co
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-### How to reach me :mailbox:
-[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/rohansattarapu)
