@@ -103,7 +103,5 @@ I'm a goal-oriented data analyst with 3 years of expertise in analyzing large co
   <img src="https://komarev.com/ghpvc/?username=rohansattarapu18&style=for-the-badge&color=orange" alt=""/>
 </div>
 
-<p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
+
 
