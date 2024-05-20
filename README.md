@@ -42,16 +42,10 @@ I'm a goal-oriented data analyst with 3 years of expertise in analyzing large co
 |-----|--------|---------|---------|---------|------------------|
 | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="VS Code" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter Notebook" width="40" height="40"/> |
 
-## Projects
-- **CRIME RATE PREDICTION** (R, Data Cleaning, Machine Learning)
-- **SOLAR RADIATION PREDICTION** (Python, EDA, Regression Methods)
-- **CREDIT CARD FINANCIAL ANALYSIS** (Power BI, SQL, DAX)
-
 ## Experience
 - **Business Data Analyst**<br>
   New York State Education Department, Office of the Professions Modernization Program<br>
- 
-  - Optimized ETL processes and reduced migration downtime using SQL and Python.
+   - Optimized ETL processes and reduced migration downtime using SQL and Python.
   - Applied machine learning, statistical analysis, and predictive modeling to predict data trends.
   - Created data visualizations using Excel and Power BI.
   - Conducted exploratory data analysis to discern patterns and trends.
@@ -59,7 +53,6 @@ I'm a goal-oriented data analyst with 3 years of expertise in analyzing large co
 
 - **Data Analyst**<br>
   Cognizant Technologies India<br>
-
   - Automated data validation using Python and managed large-scale data migrations with Oracle SQL.
   - Created and managed dynamic revenue dashboards in Tableau.
   - Analyzed revenue trends with SQL queries and Excel functions.
@@ -67,8 +60,7 @@ I'm a goal-oriented data analyst with 3 years of expertise in analyzing large co
 
 - **Data Analyst Intern**<br>
   Cognizant Technologies India<br>
- 
-  - Collaborated with stakeholders to assess and document project requirements.
+   - Collaborated with stakeholders to assess and document project requirements.
   - Developed dashboards and reports in Power BI.
   - Implemented AWS technologies for data storage and retrieval.
   - Advanced predictive models using regression analysis and clustering techniques.
