@@ -3,156 +3,109 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohansattarapu18&label=Profile%20views&color=0e75b6&style=flat" alt="rohansattarapu18" /> </p>
 
+### About Me:
+I'm a goal-oriented data analyst with 3 years of expertise in analyzing large complicated datasets, extracting insights, and making data-driven decisions. I specialize in statistical analysis, data manipulation, and visualization. Currently, I'm delving into the realms of machine learning and cloud technologies.
+
 - 🌱 I’m currently learning **Machine Learning and Cloud Technologies**
-
 - 👨‍💻 All of my projects are available at [https://github.com/rohansattarapu18](https://github.com/rohansattarapu18)
-
 - 📫 How to reach me **sattarapurohan18@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+### Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/rohan-sattarapu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rohan-sattarapu" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <!-- Programming Languages -->
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-  </a>
+## Skills
 
-  <!-- Databases -->
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
+### Programming Languages:
+| Python | R | Spark | C | C++ | SQL |
+|--------|---|-------|---|-----|-----|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" alt="Spark" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="40" height="40"/> |
 
-  <!-- Cloud -->
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
-  </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-  </a>
+### Data Analysis and Visualization:
+| Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn | Power BI | Tableau |
+|--------|-------|------------|---------|--------------|----------|---------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/> | <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="Tableau" width="40" height="40"/> |
 
-  <!-- DevOps and Tools -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-  </a>
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
-  </a>
+### Cloud Technologies:
+| AWS | Azure | Databricks |
+|-----|-------|------------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="Databricks" width="40" height="40"/> |
 
-  <!-- Other Tools -->
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
+### Databases:
+| MySQL | SQL Server | Oracle | MongoDB | PostgreSQL | DB2 |
+|-------|------------|--------|---------|------------|-----|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> | <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/ibm_db2/ibm_db2-icon.svg" alt="DB2" width="40" height="40"/> |
 
-  <!-- Web Development -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-</p>
+### Development Tools:
+| Git | GitHub | Jenkins | VS Code | PyCharm | Jupyter Notebook |
+|-----|--------|---------|---------|---------|------------------|
+| <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="VS Code" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter Notebook" width="40" height="40"/> |
 
-<h3 align="left">Projects:</h3>
-<p align="left">
-  <ul>
-    <li><strong>CRIME RATE PREDICTION:</strong> (R, Data Cleaning, Machine Learning)</li>
-    <li><strong>SOLAR RADIATION PREDICTION:</strong> (Python, EDA, Regression Methods)</li>
-    <li><strong>CREDIT CARD FINANCIAL ANALYSIS:</strong> (Power BI, SQL, DAX)</li>
-  </ul>
-</p>
+## Projects
+- **CRIME RATE PREDICTION** (R, Data Cleaning, Machine Learning)
+- **SOLAR RADIATION PREDICTION** (Python, EDA, Regression Methods)
+- **CREDIT CARD FINANCIAL ANALYSIS** (Power BI, SQL, DAX)
 
-<h3 align="left">Experience:</h3>
-<p align="left">
-  <ul>
-    <li>
-      <strong>Business Data Analyst</strong> <br>
-      New York State Education Department, Office of the Professions Modernization Program <br>
-      01/2024 - Present <br>
-      Optimized ETL processes, applied machine learning, and crafted data visualizations.
-    </li>
-    <li>
-      <strong>Data Analyst</strong> <br>
-      Cognizant Technologies India <br>
-      06/2021 - 07/2022 <br>
-      Automated data validation, managed data migrations, and created dynamic dashboards.
-    </li>
-    <li>
-      <strong>Data Analyst Intern</strong> <br>
-      Cognizant Technologies India <br>
-      02/2021 - 06/2021 <br>
-      Collaborated with stakeholders, developed interactive dashboards, and implemented AWS technologies.
-    </li>
-  </ul>
-</p>
+## Experience
+- **Business Data Analyst**<br>
+  New York State Education Department, Office of the Professions Modernization Program<br>
+  01/2024 - Present<br>
+  - Optimized ETL processes and reduced migration downtime using SQL and Python.
+  - Applied machine learning, statistical analysis, and predictive modeling to predict data trends.
+  - Created data visualizations using Excel and Power BI.
+  - Conducted exploratory data analysis to discern patterns and trends.
+  - Used Git and GitHub for version control.
 
-<h3 align="left">Education:</h3>
-<p align="left">
-  <ul>
-    <li><strong>Masters in Data Science:</strong> University at Albany, Albany, New York. (Expected 05/2024)</li>
-    <li><strong>Bachelor of Engineering in Electrical and Electronic:</strong> Anurag University, Hyderabad, Telangana, India. (05/2021)</li>
-  </ul>
-</p>
+- **Data Analyst**<br>
+  Cognizant Technologies India<br>
+  06/2021 - 07/2022<br>
+  - Automated data validation using Python and managed large-scale data migrations with Oracle SQL.
+  - Created and managed dynamic revenue dashboards in Tableau.
+  - Analyzed revenue trends with SQL queries and Excel functions.
+  - Compared real-time data from various platforms using Databricks and Python.
 
-<h3 align="left">Certifications:</h3>
-<p align="left">
-  <ul>
-    <li>Azure Data Engineer (Microsoft)</li>
-    <li>Azure AI fundamentals (Microsoft)</li>
-  </ul>
-</p>
+- **Data Analyst Intern**<br>
+  Cognizant Technologies India<br>
+  02/2021 - 06/2021<br>
+  - Collaborated with stakeholders to assess and document project requirements.
+  - Developed dashboards and reports in Power BI.
+  - Implemented AWS technologies for data storage and retrieval.
+  - Advanced predictive models using regression analysis and clustering techniques.
+
+## Education
+- **Masters in Data Science**<br>
+  University at Albany, Albany, New York (Expected 05/2024)
+
+- **Bachelor of Engineering in Electrical and Electronic**<br>
+  Anurag University, Hyderabad, Telangana, India (05/2021)
+
+## Certifications
+- **Azure Data Engineer** (Microsoft)
+- **Azure AI Fundamentals** (Microsoft)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohansattarapu18&show_icons=true&locale=en&layout=compact" alt="rohansattarapu18" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohansattarapu18&show_icons=true&locale=en" alt="rohansattarapu18" /></p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=rohansattarapu18&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=rohansattarapu18&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</p>
+
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=rohansattarapu18&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohansattarapu18&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
+</p>
+
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=rohansattarapu18&style=for-the-badge&color=orange" alt=""/>
+</div>
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
+### How to reach me :mailbox:
+[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/rohansattarapu)
