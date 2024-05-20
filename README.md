@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohansattarapu18&label=Profile%20views&color=0e75b6&style=flat" alt="rohansattarapu18" /> </p>
 
 ### About Me:
-I'm a goal-oriented data analyst with 3 years of expertise in analyzing large complicated datasets, extracting insights, and making data-driven decisions. I specialize in statistical analysis, data manipulation, and visualization. Currently, I'm delving into the realms of machine learning and cloud technologies.
+I'm a goal-oriented professional with 3 years of expertise in analyzing large complicated datasets, extracting insights, and making data-driven decisions. I specialize in statistical analysis, data manipulation, and visualization. Currently, I'm delving into the realms of machine learning and cloud technologies.
 
 - 🌱 I’m currently learning **Machine Learning and Cloud Technologies**
 - 👨‍💻 All of my projects are available at [https://github.com/rohansattarapu18](https://github.com/rohansattarapu18)
